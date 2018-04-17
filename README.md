@@ -23,4 +23,3 @@ Changes and improvements are more than welcome! Feel free to fork and open a pul
 
 [MIT](http://opensource.org/licenses/MIT)
 
-Copyright (c) Yosuke Saito 2017
